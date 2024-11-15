@@ -1,0 +1,38 @@
+html, body {
+	margin: 20px;
+	background: #000000;
+}
+
+.profile-badge {
+	border: 1px solid #505354;
+	border-radius: 6px;
+	width: 700px;
+	overflow: hidden;
+} 
+.cover {
+	width: auto;
+	height: 94px;
+	background: #b95;
+}
+.avatar {
+	border: 4px solid #fff;
+	background: #303030;
+	width: 70px;
+	height: 70px;
+    border-radius: 50px;
+    margin-top: -50px;
+    margin-left: 25px;	
+}
+.button-social {
+	border-radius: 6px;
+	cursor: pointer;
+	padding: 8px 16px;
+	color: #fff;
+	background: #0c56b3;
+}
+.flowline {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	padding: 7px 7px;
+}
